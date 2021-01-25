@@ -11,7 +11,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := xiaomi
 PRODUCT_DEVICE := cezanne
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_NAME := lineage_cezanne
+PRODUCT_NAME := rr_cezanne
 PRODUCT_MODEL := M2006J10C
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
